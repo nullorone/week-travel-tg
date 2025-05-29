@@ -1,0 +1,1 @@
+export { FooterMainButton } from './FooterMainButton';
